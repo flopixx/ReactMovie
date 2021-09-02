@@ -6,8 +6,8 @@
  <a href="https://reactmoviee.netlify.app/">Ver</a>
 
  <h2>Movil 📱 </h2>
-<img src="" alt="" />
+<img src="https://github.com/flopixx/ReactMovie/blob/master/src/images/movie.png" alt="" />
  <h2>Desktop 💻</h2>
- <img src="" alt="" />
+ <img src="https://github.com/flopixx/ReactMovie/blob/master/src/images/The-movie-db-app.png" alt="" />
 
 ### 🚀 `npm start`
